@@ -1,5 +1,4 @@
 ##### Chapter 5 ##### 
-### btree is the best
 deployment:
   dockerhub:
     branch: master
